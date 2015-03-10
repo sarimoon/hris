@@ -1,0 +1,1 @@
+json.(religion, :id, :name)

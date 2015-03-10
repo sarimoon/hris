@@ -1,0 +1,1 @@
+json.array! @religions, partial: 'religion', as: :religion

@@ -1,0 +1,8 @@
+{
+  "name": "hrisAngularjs",
+  "version": "1.0.0",
+  "dependencies": {
+    "font-awesome": "~3.1.1",
+    "d3" : "~3.0"
+  }
+}
